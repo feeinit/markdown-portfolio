@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+# Favourite things
+1. Raindrops on roses 
+2. Whiskers on kittens :cat:
